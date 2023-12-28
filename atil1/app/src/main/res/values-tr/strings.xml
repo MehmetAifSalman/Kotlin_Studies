@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Pizzacı Gizem</string>
+    <string name="pizzaBaslik">Etli Peynir </string>
+    <string name="peynirYazi">Peynir</string>
+    <string name="sucukYazi">Sucuk</string>
+    <string name="BiberYazi">Biber</string>
+    <string name="zeytinYazi">Zeytin</string>
+    <string name="TeslimatSure">Teslimat</string>
+    <string name="aciklama">Et Severler ,  Pizzanız için hazır olun !</string>
+    <string name="FiyatYazi"> 174 TL</string>
+    <string name="ButonYazi">Sepete Ekle</string>
+
+
+</resources>
